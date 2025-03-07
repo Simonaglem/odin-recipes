@@ -17,6 +17,7 @@ body {
 .return-to-homepage {
     background-color: rgb(221, 191, 198);
     font-size: 16px;
+    font-family: Garamond, Georgia, serif;
 }
 
 .dish-picture {
