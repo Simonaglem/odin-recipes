@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(226, 155, 173);
+    font-family: Garamond, Georgia, serif;
+    font-size: 20px;
+}
+
+.header {
+    font-size: 28px;
+    color: rgb(66, 4, 19);
+    text-align: center;
+}
+
+.header-two {
+    font-size: 22px; 
+}
+
+.return-to-homepage {
+    background-color: rgb(221, 191, 198);
+    font-size: 16px;
+}
+
+.dish-picture {
+    display: block;
+    margin: auto;
+}
